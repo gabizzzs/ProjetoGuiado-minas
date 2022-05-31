@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+header{
+    background-color: #000;
+} 
+ 
+.logominas {
+    margin-left: 430px;
+    padding-top: 25px;
+}
+
+header h1 {
+    color: #fff;
+    font-size:70px;
+    margin-left: 280px;
+    font-family: "Arial", Open Sans;
+}
+
+header p {
+    color:#fff;
+    font-size:15px;
+    margin-left:580px
+}
+
+header p{
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-family: "Arial", Open sans;
+}
+
+.subtitulo {
+    padding-top:25px;
+    padding-bottom:25px;
+    background: #fff;
+    font-size:30px;
+    margin-left:100px;
+    font-family: "Arial", Open Sans;
+}
+
+.desenvolvido {
+    background: rgb(163, 61, 167);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:100px;
+    font-family: "Arial", Open sans;
+    color: rgb(151, 150, 150);
+}
+
+.foto {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left:100px;
+}
+
+.Informacao {
+    color: rgb(66, 66, 66);
+    font-family: "Arial", open Sans;
+    padding-left: 100px;
+    padding-bottom: 25px;
+    font-size:20px;
+
+}
+
+.caixa_central .centro {
+    display : flex;
+    flex-direction : row
+}
+
+.caixa_central .centro .Informacao {
+    text-align:justify;
+}
+
+.caixa_central .centro .curso {
+    text-align:justify;
+    padding-left: 50px;
+    font-size:20px;
+    font-family: "Arial", Open sans;
+    color: rgb(66, 66, 66);
+    padding-bottom: 25px;
+}
+
+footer {
+    background: rgb(66, 66, 66);
+    color: #fff;
+    font-size:20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.linkedin .Minas .github {
+    display : flex;
+    flex-direction : row
+}
